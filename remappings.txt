@@ -1,0 +1,6 @@
+forge-std/=/home/kali/termmax-contract-v2/dependencies/forge-std-1.9.6/src/
+@openzeppelin/contracts/=/home/kali/termmax-contract-v2/dependencies/@openzeppelin-contracts-5.2.0/
+@openzeppelin/contracts-upgradeable/=/home/kali/termmax-contract-v2/dependencies/@openzeppelin-contracts-upgradeable-5.2.0/
+@chainlink/=/home/kali/termmax-contract-v2/dependencies/@chainlink-contracts-v1.12.0/
+contracts/=/home/kali/termmax-contract-v2/contracts/
+utils/=/home/kali/termmax-contract-v2/test/v2/utils/
