@@ -28,3 +28,5 @@ forge test --match-contract TermMaxInflationExploit -vv
 
 ## Remediation
 Ensure that only the **interest** portion of a swap (not the entire principal) is added to `_annualizedInterest`, or implement strict bounds on how much the annualized interest can change per swap relative to the remaining time to maturity.
+
+# please update the mappings to your need, thank you (-:
