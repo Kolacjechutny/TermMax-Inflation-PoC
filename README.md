@@ -30,7 +30,8 @@ export FORK_URL=https://arb1.arbitrum.io/rpc
 # Run the test
 forge test --match-contract TermMaxArbForkExploit -vv
 ```
-<img width="841" height="362" alt="Screenshot_2026-04-03_20_25_13" src="https://github.com/user-attachments/assets/2cc2d668-eaf1-4344-9b7a-245efbbec346" />
+<img width="819" height="349" alt="Screenshot_2026-04-04_21_50_47" src="https://github.com/user-attachments/assets/8c297d2b-e82c-4a1c-af82-1931ffa7eee0" />
+
 
 
 ## PoC walkthrough
